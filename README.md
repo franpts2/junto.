@@ -8,13 +8,13 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
 </div>
 
-## 🌐 About
+## About
 
 Junto is a full-featured social media platform designed to bring people together through shared cultural interests. The platform combines traditional social networking features with media discovery, allowing users to connect, share, and discuss their favorite movies, books, and music.
 
-## 🚀 Key Features
+## Key Features
 
-### 👤 Authentication & User Management
+### Authentication & User Management
 
 - Secure authentication (email/password, Google OAuth)
 - Password recovery via email
@@ -22,7 +22,7 @@ Junto is a full-featured social media platform designed to bring people together
 - Block/unblock system with appeal mechanism
 - Privacy controls for connections and visibility
 
-### 📱 Social Feed & Interactions
+### Social Feed & Interactions
 
 - Personalized timeline (friends & groups)
 - Post creation with text and images
@@ -31,51 +31,51 @@ Junto is a full-featured social media platform designed to bring people together
 - Real-time AJAX feed updates
 - Content filtering (all/friends-only)
 
-### 💬 Messaging System
+### Messaging System
 
 - Direct messages (private chat)
 - Real-time chat updates
 - Conversation management (delete, history)
 - Mention system (@user tagging)
 
-### 👥 Friend Network
+### Friend Network
 
 - Send/accept/reject friend requests
 - Friends list and management
 - User search and discovery
 - Dedicated friends feed
 
-### 🎬 Media Library Integration
+### Media Library Integration
 
 - Browse/search movies, books, music
 - Add media to favorites
 - Share reviews and ratings
 
-### 👨‍👩‍👧‍👦 Groups & Communities
+### Groups & Communities
 
 - Create and manage groups
 - Admin/member roles
 - Join/invite requests
 - Group posts and discussions
 
-### 🔍 Advanced Search
+### Advanced Search
 
 - Search users, posts, comments, groups
 - Full-text and filtered search
 
-### 🛡️ Administration & Moderation
+### Administration & Moderation
 
 - Admin dashboard
 - User moderation (block/unblock, appeals)
 - Content reports and review
 - Platform analytics
 
-### 🔔 Notification System
+### Notification System
 
 - Friend requests, group invites
 - Likes, comments, and message alerts
 
-## 🛠 Technical Implementation
+## Technical Implementation
 
 **Tech Stack**
 
@@ -123,7 +123,7 @@ Junto is a full-featured social media platform designed to bring people together
 - File uploads (images)
 - Email notifications
 
-## 🏗 Setup and Installation
+## Setup and Installation
 
 ### Prerequisites
 
@@ -216,7 +216,7 @@ npm ci
 npm run build
 ```
 
-## 🔐 Test Credentials
+## Test Credentials
 
 You can use the seeded database accounts or create your own.
 
@@ -233,7 +233,7 @@ You can use the seeded database accounts or create your own.
 | basic account | alice@example.org | 1234     |
 | basic account | bruno@example.org | 1234     |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 junto/
@@ -282,7 +282,7 @@ junto/
 └── upload_image.sh            # Image upload script
 ```
 
-## 📹 Video Demo & API Documentation
+## Video Demo & API Documentation
 
 - **Video Demo:**
     - The project video demonstration is available at [videos/lbaw2544.mp4](videos/lbaw2544.mp4). Open this file to watch the latest demo showcasing the platform's features and user experience.
@@ -291,7 +291,7 @@ junto/
     - The OpenAPI (Swagger) specification for the platform's API is available in `docs/a7_openapi.yaml`. This file provides a comprehensive description of available API endpoints, request/response formats, and authentication requirements.
     - The `docs/` folder also contains project-related certificates (CSS and HTML reports and also checklists of usability and Accessibility).
 
-## 🎯 Features Implemented
+## Features Implemented
 
 - Complete authentication system with OAuth
 - User profiles with customizable bios and avatars
@@ -312,7 +312,7 @@ junto/
 - Image upload and storage
 - Email notifications for password reset
 
-## 👥 Development Team
+## Development Team
 
 This project was developed by:
 
@@ -321,7 +321,7 @@ This project was developed by:
 - [Maria Luiza Vieira](https://github.com/maluviieira)
 - [Pedro Lunet](https://github.com/PedroLunet)
 
-## 📜 Course Information
+## Course Information
 
 Developed for the LBAW (Database and Web Applications Laboratory) course at FEUP (Faculty of Engineering, University of Porto).
 
