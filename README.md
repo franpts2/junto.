@@ -135,10 +135,7 @@ Junto is a full-featured social media platform designed to bring people together
 ### Quick Start
 
 1. **Clone the repository**
-    ```bash
-    git clone git@github.com:YourUsername/junto.git
-    cd junto
-    ```
+
 2. **Install dependencies**
     ```bash
     composer install
