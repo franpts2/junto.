@@ -1,18 +1,20 @@
-# junto. - Social Media Platform
+# junto.
 
-<div align="left">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-</div>
+A social platform that connects people through shared music, films, and books.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+</p>
 
 ## About
 
 Junto is a full-featured social media platform designed to bring people together through shared cultural interests. The platform combines traditional social networking features with media discovery, allowing users to connect, share, and discuss their favorite movies, books, and music.
 
-## Key Features
+## Features
 
 ### Authentication & User Management
 
@@ -75,7 +77,7 @@ Junto is a full-featured social media platform designed to bring people together
 - Friend requests, group invites
 - Likes, comments, and message alerts
 
-## Technical Implementation
+## How It Works
 
 **Tech Stack**
 
@@ -123,7 +125,7 @@ Junto is a full-featured social media platform designed to bring people together
 - File uploads (images)
 - Email notifications
 
-## Setup and Installation
+## Quick Start
 
 ### Prerequisites
 
@@ -288,28 +290,9 @@ junto/
     - The OpenAPI (Swagger) specification for the platform's API is available in `docs/a7_openapi.yaml`. This file provides a comprehensive description of available API endpoints, request/response formats, and authentication requirements.
     - The `docs/` folder also contains project-related certificates (CSS and HTML reports and also checklists of usability and Accessibility).
 
-## Features Implemented
+## Team & Course
 
-- Complete authentication system with OAuth
-- User profiles with customizable bios and avatars
-- Social feed with posts, reviews, and comments
-- Friend system with requests and management
-- Real-time messaging between users
-- Media library (movies, books, music)
-- Favorites and user media preferences
-- Groups with membership management
-- Advanced search across users, posts, comments, and groups
-- Like system for posts and comments
-- Mention system with @ tagging
-- Notification system for interactions
-- Admin panel with moderation tools
-- Report system for content moderation
-- Block/unblock with appeal mechanism
-- Responsive design with TailwindCSS
-- Image upload and storage
-- Email notifications for password reset
-
-## Development Team
+**Team**
 
 This project was developed by:
 
@@ -318,9 +301,17 @@ This project was developed by:
 - [Maria Luiza Vieira](https://github.com/maluviieira)
 - [Pedro Lunet](https://github.com/PedroLunet)
 
-## Course Information
+**Course**
 
 Developed for the LBAW (Database and Web Applications Laboratory) course at FEUP (Faculty of Engineering, University of Porto).
 
 Course: LBAW 2024/2025  
 Project Code: lbaw2544
+
+## License
+
+Coursework submitted at FEUP. Shared for reference; all rights reserved unless stated otherwise.
+
+---
+
+_junto. — culture, together._
